@@ -1,4 +1,3 @@
-# Create a README.md file with the given content
 
 readme_content = """# NeuroPulse
 
@@ -51,8 +50,7 @@ Originally built with Python, bundled into an EXE for standalone use
 
 ## 📄 License
 
- The unlicensed
-"""
+ """The unlicensed"""
 
 # Save the content to a file
 readme_path = "/mnt/data/README.md"
