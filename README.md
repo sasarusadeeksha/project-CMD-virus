@@ -50,6 +50,10 @@ Originally built with Python, bundled into an EXE for standalone use
 ## 📄 License
 
  """The unlicensed"""
+
+ ---
+
+ 
  ## ❗ Attention
 > [!CAUTION]
 > **I NEITHER  RESPONSIBLE FOR ANY DAMAGE CAUSED TO YOUR MACHINE**
