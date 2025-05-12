@@ -1,6 +1,6 @@
 
 
-**NeuroPulse** is a standalone Windows executable that unleashes a "waterfall" of system chaos:
+**BooMBoX** is a standalone Windows executable that unleashes a "waterfall" of system chaos:
 
 - 🔴 Custom red error pop-ups with sound
 - 🪟 Native Windows error boxes
@@ -34,7 +34,7 @@ Always run responsibly. Use **Task Manager** to force-quit if needed.
 
 ## 📦 How to Use
 
-1. Download `NeuroPulse.exe` from this repository.
+1. Download `BooMBoX.exe` from this repository.
 2. Double-click to run.
 3. Enjoy the chaos — or panic 😅
 
