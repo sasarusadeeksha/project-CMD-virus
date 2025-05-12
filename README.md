@@ -9,7 +9,9 @@
 
 This project is designed for fun, demonstration, or prank use in a **safe environment** (like a virtual machine or sandbox).
 
+
 ---
+
 
 ## ⚠️ WARNING
 
@@ -19,7 +21,16 @@ This project is designed for fun, demonstration, or prank use in a **safe enviro
 
 Always run responsibly. Use **Task Manager** to force-quit if needed.
 
+
+ ---
+ 
+ ## ❗ Attention
+> [!CAUTION]
+> **I NEITHER  RESPONSIBLE FOR ANY DAMAGE CAUSED TO YOUR MACHINE**
+
+
 ---
+
 
 ## 📦 How to Use
 
@@ -51,10 +62,5 @@ Originally built with Python, bundled into an EXE for standalone use
 
  """The unlicensed"""
 
- ---
 
- 
- ## ❗ Attention
-> [!CAUTION]
-> **I NEITHER  RESPONSIBLE FOR ANY DAMAGE CAUSED TO YOUR MACHINE**
 
