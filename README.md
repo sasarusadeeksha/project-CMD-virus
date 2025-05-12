@@ -1,5 +1,4 @@
 
-readme_content = """# NeuroPulse
 
 **NeuroPulse** is a standalone Windows executable that unleashes a "waterfall" of system chaos:
 
@@ -52,9 +51,4 @@ Originally built with Python, bundled into an EXE for standalone use
 
  """The unlicensed"""
 
-# Save the content to a file
-readme_path = "/mnt/data/README.md"
-with open(readme_path, "w", encoding="utf-8") as f:
-    f.write(readme_content)
 
-readme_path
